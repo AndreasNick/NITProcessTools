@@ -1,0 +1,38 @@
+﻿SOFTWARE LICENSE AGREEMENT
+
+copyright © 2021 Andreas Nick all rights reserved
+This license statement("License Agreement") constitutes the entire legal agreement between you(either as an individual or a legal entity) ("You") and the Nick Informationstechnik GmbH in Germany for the software product including any accompanying online or printed documentation(the "Software").
+BY DOWNLOADING, INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT.
+It is not allowed to provide our software on different websides!
+
+GRANT OF A LICENSE
+Upon your registration at our website http://www.AndreasNick.com and following the approval of your registration, Nick Informationstechnik hereby grants to you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the Software for your internal business needs.
+our use shall not include the right to use the Software for external purposes, including but not limited to the provision of any commercial or non - commercial services to third parties or the use for marketing purposes, for instance by placing the Software on your website for downloading purposes or otherwise.
+You may not(and You may not permit anyone else to) copy, modify, create a derivative work of, reverse engineer, decompile or otherwise attempt to extract the object code or source code of the Software or any part thereof, unless expressly permitted by Nick Informationstechnik.
+
+SUPPORT
+Support is available for purchase. For smaller (questions less than 10 minutes effort) we do not write an invoice
+
+EXCLUSION OF WARRANTIES
+The Software is provided "as is" and without any warranties whether express or implied, including, but not limited to the implied warranties and conditions of merchantability, fitness for a particular purpose and non - infringement.You expressly acknowledge and agree that use of the Software is at your own discretion and at your sole risk and that you shall be solely responsible for any damage to your computer or other device or loss of data that results from the download or use of the Software.
+
+LIMITATION OF LIABILITY
+In no event shall Andreas Nick and his company Nick Informationstechnik GmbH be liable for any direct or indirect damages(including, without limitation, damages for loss of turnover, loss of profits, business interruption, loss of data, use or business interruption) arising out of the use of or inability to use the Software, even if we have been advised of the possibility of such damages.
+
+INTELLECTUAL PROPERTY RIGHTS
+All rights, title and interest in the Software, and any modifications thereof, shall at all times remain vested in Nick Informationstechnik.This License Agreement does not constitute a transfer to you of any title in or intellectual property rights to the Software, or modifications thereof, or of any copyrights, patents, trademarks or trade names related thereto.
+
+OWNERSHIP
+The original and any copies of the Licensed Programs, made by Licensee, including translations, compilations, partial copies, modifications, and updates, are the property of the Andreas Nick.
+
+APPLICABLE LAW
+This License Agreement is governed by and shall be construed in accordance with the laws of Germany.Any dispute arising out or in connection with this License Agreement shall exclusively be submitted to the competent courts in Hannover, Germany.
+
+
+Contact
+http://www.nick-it.de
+info (AT) nick - it.de
+
+Andreas Nick, 2021
+
+ 

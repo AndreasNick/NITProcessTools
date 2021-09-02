@@ -1,0 +1,6 @@
+/packages
+/NITPerfCmdLets/bin
+/NITPerfCmdLets/bin/Release
+/NITPerfCmdLets/obj
+workspace.code-workspace
+.vs/NITProcessTools/v16/.suo
